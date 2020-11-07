@@ -1,6 +1,6 @@
 ## Just-For-Fun
 
-this is an self created, easy calculation for US-2020  Election
+this is a self created, easy calculation for US-2020  Election, aim to practice javascript
 
 ## Dependense
 
