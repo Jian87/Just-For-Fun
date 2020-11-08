@@ -16,7 +16,7 @@ All functions are implemented by javascript, include drag, drop, style change, s
 
 Two ways:
 1, download the whole files.
-2, onlye download the index.html file.
+2, only download the index.html file.
 
 Just click it and choose your favoriate browser to display.
 
