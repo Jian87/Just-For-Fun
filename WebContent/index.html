@@ -177,6 +177,9 @@ button:hover{
 			WhoWin("Trump", 214);
 		}
 		
+		function click() {
+			assert(this.innerHTML);
+		}
 		
 </script>
 </head>
@@ -203,6 +206,15 @@ button:hover{
 			
 	</div>
 	
+	
+	<div>
+		<ul>
+			<li class="test-list-btn" onclick="click">101</li>
+			<li class="test-list-btn" onclick="click">102</li>
+		</ul>
+
+	</div>
+
 	
 	<div style="margin:auto; width:60%; min-height:100px;" ondrop="drop(event)" ondragover="allowDrop(event)">
 		<div class="candidate-state" id="dragtest1" draggable="true" ondragstart="drag(event)"><h3>NE</h3><p>6</p></div> 
